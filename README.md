@@ -4,7 +4,7 @@
 
 
 + Crear cuenta en stackoverflow y adjuntar imagen.
-[Link perfil](https://stackoverflow.com/users/22765571/nisaespa?tab=profile)
+[Link perfil de stackoverflow](https://stackoverflow.com/users/22765571/nisaespa?tab=profile)
 <div align='center'>
 <figure> <img src="https://raw.githubusercontent.com/nisaespa/RETO3/main/stackoverflow.png" alt="" width="1000" height="auto"/></br>
 <figcaption><b></b></figcaption></figure>
